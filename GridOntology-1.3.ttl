@@ -166,7 +166,7 @@ plt:NetworkGoodProperty a owl:Class ;
   rdfs:comment """A Network Good  Property is a property that describes the good exchanged in the network"""@en ;
   rdfs:subClassOf seas:BooleanProperty; 
   vs:term_status "testing" ;
-  rdfs:isDefinedBy plt:GridOntology..
+  rdfs:isDefinedBy plt:GridOntology.
 
 plt:hasNetworkGood a owl:ObjectProperty , owl:FunctionalProperty ;
   rdfs:label "has Network Good"@en ;
